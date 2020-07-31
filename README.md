@@ -1,4 +1,5 @@
 <a href="https://www.instagram.com/aashishkumar12376/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a>
+<a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2329259%2Flinkedin_linkedin_logo_logo_website_icon&psig=AOvVaw1VUdapcn5BunJL9e_7TwCs&ust=1596285731338000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDtvJnq-OoCFQAAAAAdAAAAABAD" width="25px;"></a>
 
 
 
