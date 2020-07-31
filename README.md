@@ -12,6 +12,8 @@ Here's is some the project that i bulid on python or other languages and share a
 
 I worked mostly on python to bulid my almost projects and beside that i know c, c++ , java, javascript, PHP etc...
 
-<a href="https://www.instagram.com/aashishkumar12376/"> Instagram </a>
+<b>Creator and Founder of pythonworld</b> follow our page on Instagram and Facebook to get the Daily knowledge on python
 
-This is my instagram page where i posted some useful content regarding on python follow -> <a href="https://www.instagram.com/__pythonworld__/"> __pythonworld__ </a>
+<img src="https://image.flaticon.com/icons/svg/2219/2219096.svg" width="50px;> <br>
+
+<a href="https://www.instagram.com/__pythonworld__/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a>
