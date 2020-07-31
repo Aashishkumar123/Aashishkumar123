@@ -15,7 +15,7 @@ Here's is some the project that i bulid on python or other languages and share a
 I worked mostly on python to bulid my almost projects and beside that i know c, c++ , java, javascript, PHP etc...
 
 <h1><b>Creator and Founder of PythonWorld</b></h1> 
-<h5>follow our page on Instagram and Facebook to get the Daily knowledge on python </h5>
+<h5>follow our page on Instagram and Facebook to get the Daily powerful knowledge on python </h5>
 
 <a href="https://www.instagram.com/__pythonworld__/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a>
 <a href="https://www.facebook.com/Thepythonworld"> <img src="https://imageog.flaticon.com/icons/png/512/174/174848.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="50px;"></a>
