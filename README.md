@@ -14,6 +14,6 @@ I worked mostly on python to bulid my almost projects and beside that i know c, 
 
 <b>Creator and Founder of pythonworld</b> follow our page on Instagram and Facebook to get the Daily knowledge on python
 
-<img src="https://image.flaticon.com/icons/svg/2219/2219096.svg" width="50px;> <br>
+<a><img src="https://image.flaticon.com/icons/svg/2219/2219096.svg" width="50px;></a> <br>
 
 <a href="https://www.instagram.com/__pythonworld__/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a>
