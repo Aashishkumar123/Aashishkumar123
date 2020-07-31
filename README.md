@@ -1,4 +1,4 @@
-<h3><b>My Social Media Handlers</b></h3>
+<h2><b>My Social Media Handlers</b></h2>
 
 <a href="https://www.instagram.com/aashishkumar12376/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
