@@ -1,6 +1,6 @@
 <a href="https://www.instagram.com/aashishkumar12376/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100016942057363"> <img src="https://imageog.flaticon.com/icons/png/512/174/174848.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="25px;"></a>
+<a href="https://www.facebook.com/profile.php?id=100016942057363"> <img src="https://imageog.flaticon.com/icons/png/512/174/174848.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="50px;"></a>
 
 
 
