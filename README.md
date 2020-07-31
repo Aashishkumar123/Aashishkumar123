@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/aashishkumar12376/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Finstagram_174855&psig=AOvVaw0Ziz72pRbSAg8TeN_m3iHy&ust=1596285053852000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjcu9Tn-OoCFQAAAAAdAAAAABAI"></a>
+<a href="https://www.instagram.com/aashishkumar12376/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>
 
 
 
