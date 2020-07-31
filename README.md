@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/aashishkumar12376/">https://neilpatel.com/wp-content/uploads/2017/04/instagram.jpg</a>
+<a href="https://www.instagram.com/aashishkumar12376/">Instagram</a>
 
 
 
