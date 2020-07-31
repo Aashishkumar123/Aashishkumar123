@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/aashishkumar12376/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="100px;"></a>
+<a href="https://www.instagram.com/aashishkumar12376/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="50px;"></a>
 
 
 
