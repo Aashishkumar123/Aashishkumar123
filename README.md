@@ -9,13 +9,13 @@
 <img src="https://instagram.fdel1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/22794163_755588957957041_5676997405740892160_n.jpg?_nc_ht=instagram.fdel1-2.fna.fbcdn.net&_nc_ohc=iyntQFA0ED0AX9eRH7z&oh=86f74dfb75a1eb12790fe994cc4e4426&oe=5F4EA004" width="100px;">
 <h1><b>About Me</b></h1>
 
-Hey Guys !! My name Aashish and i am python Developer....
+📌 Hey Guys !! My name <b>Aashish</b> and i am <b>python Developer....</b>
 
-I'm currently pursuing my master's | Master of Computer Application (MCA)
+📌 I'm currently pursuing my master's | Master of Computer Application (MCA)
 
-Here's is some the project that i bulid on python or other languages and share as a form of repositries
+📌 Here's is some the project that i bulid on python or other languages and share as a form of repositries
 
-I worked mostly on python to bulid my almost projects and beside that i know c, c++ , java, javascript, PHP etc...
+📌 I worked mostly on python to bulid my almost projects and beside that i know c, c++ , java, javascript, PHP etc...
 <hr>
 <h1><b>Creator and Founder of PythonWorld</b></h1> 
 <h5>follow our page on Instagram and Facebook to get the Daily powerful knowledge on python </h5>
