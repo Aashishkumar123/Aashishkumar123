@@ -6,7 +6,7 @@
 
 <hr>
 
-<img src="https://instagram.fdel1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/22794163_755588957957041_5676997405740892160_n.jpg?_nc_ht=instagram.fdel1-2.fna.fbcdn.net&_nc_ohc=iyntQFA0ED0AX9eRH7z&oh=86f74dfb75a1eb12790fe994cc4e4426&oe=5F4EA004" width="100px;">
+<img src="https://avatars0.githubusercontent.com/u/39042206?s=400&u=96706a4f2a33a0ba4306895ecfb9747f9d17107b&v=4" width="100px;">
 <h1><b>About Me</b></h1>
 
 📌 Hey Guys !! My name <b>Aashish</b> and i am <b>python Developer....</b>
