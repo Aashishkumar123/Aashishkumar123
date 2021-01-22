@@ -22,3 +22,6 @@
 
 <a href="https://www.instagram.com/__pythonworld__/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a>
 <a href="https://www.facebook.com/Thepythonworld"> <img src="https://www.flaticon.com/free-icon/facebook_174848?term=Facebook&page=1&position=6" width="50px;"></a>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
