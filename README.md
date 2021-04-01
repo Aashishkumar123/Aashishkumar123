@@ -26,3 +26,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aashishkumar123" alt="Aashish" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&layout=compact" alt="Aashish" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&theme=black-blue" alt="Aashish "/>
