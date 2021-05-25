@@ -15,8 +15,8 @@
 
   <li> 🙋 21 years old Python and Django Developer</li>
   <li> 🎓 MCA Student</li>
-  
-</ul>
+  <li>  Content Creator</li>
+  <li> UI Designer</li>  </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
