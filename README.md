@@ -29,12 +29,12 @@
 
   <thead>
     <td>Languages</td>
-    <td><img src="skills/vscode-icons_file-type-python.png" width="30px;"></td>
-    <td><img src="skills/logos_javascript.png" width="30px;"></td>
-    <td><img src="skills/logos_php.png" width="45px;"></td>
-    <td><img src="skills/logos_java.png" width="30px;"></td>
-    <td><img src="skills/logos_c.png" width="30px;"></td>
-    <td><img src="skills/logos_c-plusplus.png" width="30px;"></td>
+    <td><img src="skills/vscode-icons_file-type-python.png" width="40px;"></td>
+    <td><img src="skills/logos_javascript.png" width="60px;"></td>
+    <td><img src="skills/logos_php.png" width="60px;"></td>
+    <td><img src="skills/logos_java.png" width="60px;"></td>
+    <td><img src="skills/logos_c.png" width="60px;"></td>
+    <td><img src="skills/logos_c-plusplus.png" width="60px;"></td>
   </thead>
   <tr>
     <td>Database</td>
