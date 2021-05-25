@@ -11,8 +11,15 @@
 <img src="assets/Slide 16_9 - 1.jpg">
 <h3>About Me</h3>
 
+<style>
+.border{
+  
+  border:2px solid white;
+  
+  }
+</style>
 
-<div style="border:2px solid white;">
+<div class="border" style="border:2px solid white;">
 
 <ul>
 
