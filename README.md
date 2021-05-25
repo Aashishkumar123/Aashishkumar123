@@ -29,7 +29,19 @@
 
   <thead>
     <td>Languages</td>
-  
+    <td><img src="skills/vscode-icons_file-type-python.png" width="30px;"></td>
+    <td><img src="skills/logos_javascript.png" width="30px;"></td>
+    <td><img src="skills/logos_php.png" width="30px;"></td>
+    <td><img src="skills/logos_java.png" width="30px;"></td>
+    <td><img src="skills/logos_c.png" width="30px;"></td>
+    <td><img src="skills/logos_c-plusplus.png" width="30px;"></td>
   </thead>
-
+  <tr>
+    <td>Database</td>
+    <td><img src="skills/vscode-icons_file-type-mongo.png" width="30px;"></td>
+     <td><img src="skills/logos_postgresql.png" width="30px;"></td>
+     <td><img src="skills/logos_mysql.png" width="30px;"></td>
+     <td><img src="skills/logos_redis.png" width="30px;"></td>
+  
+  </tr>
 </table>
