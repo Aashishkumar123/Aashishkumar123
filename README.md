@@ -42,6 +42,24 @@
      <td><img src="skills/logos_postgresql.png" width="30px;"></td>
      <td><img src="skills/logos_mysql.png" width="30px;"></td>
      <td><img src="skills/logos_redis.png" width="30px;"></td>
+  </tr>
+   <tr>
+    <td>DevOps</td>
+    <td><img src="skills/logos_github-octocat.png" width="30px;"></td>
+     <td><img src="skills/logos_gitlab.png" width="30px;"></td>
+     <td><img src="skills/logos_git-icon.png" width="30px;"></td>
+     <td><img src="skills/logos_postman.png" width="30px;"></td>
+  </tr>
+  <tr>
+    <td>UI Design</td>
+    <td><img src="skills/grommet-icons_figma.png" width="30px;"></td>
+     <td><img src="skills/cib_adobe-xd.png" width="30px;"></td>
+    <td><img src="skills/cib_canva.png" width="30px;"></td>
+  </tr>
   
+  <tr>
+    <td>UI Design</td>
+    <td><img src="skills/logos_digital-ocean.png" width="30px;"></td>
+     <td><img src="skills/logos_heroku-icon.png" width="30px;"></td>
   </tr>
 </table>
