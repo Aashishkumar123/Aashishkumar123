@@ -29,7 +29,7 @@
 
   <thead>
     <td>Languages</td>
-    <td><img src="skills/vscode-icons_file-type-python.png" width="40px;"></td>
+    <td><img src="skills/vscode-icons_file-type-python.png" width="60px;"></td>
     <td><img src="skills/logos_javascript.png" width="60px;"></td>
     <td><img src="skills/logos_php.png" width="60px;"></td>
     <td><img src="skills/logos_java.png" width="60px;"></td>
