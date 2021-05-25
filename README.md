@@ -8,7 +8,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashishkumar123&theme=tokyonight"></th>
 
 <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&layout=compact&theme=tokyonight" alt="Aashish" /></th>
-  <th><img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123"></th>
+  <th><img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&theme=tokyonight"></th>
 </thead>
 </table>
 <hr>
