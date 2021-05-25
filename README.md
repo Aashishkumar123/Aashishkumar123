@@ -58,7 +58,7 @@
   </tr>
   
   <tr>
-    <td>UI Design</td>
+    <td>Cloud</td>
     <td><img src="skills/logos_digital-ocean.png" width="45px;"></td>
      <td><img src="skills/logos_heroku-icon.png" width="30px;"></td>
   </tr>
