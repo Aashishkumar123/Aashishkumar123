@@ -6,7 +6,7 @@
 
 <hr>
 
-<img src="https://avatars0.githubusercontent.com/u/39042206?s=400&u=96706a4f2a33a0ba4306895ecfb9747f9d17107b&v=4" width="100px;" style="border-radius:50%;">
+<img src="https://www.figma.com/file/Pm07PWhuADObVOJr1JsE55/Instagram?node-id=241%3A2" width="100px;" style="border-radius:50%;">
 <h1><b>About Me</b></h1>
 
 📌 Hey Guys !! My name <b>Aashish</b> and i am <b>python Developer....</b>
