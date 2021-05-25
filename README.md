@@ -23,16 +23,3 @@
 
 <img src="assets/Slide 16_9 - 1.jpg">
 
-
-
-
-
-
-
-<!--   
-
-      <td> </td>
-      
-      <td>  </td>
-    
-    </tr> -->
