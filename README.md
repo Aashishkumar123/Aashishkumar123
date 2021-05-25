@@ -11,15 +11,12 @@
 <img src="assets/Slide 16_9 - 1.jpg">
 <h1><b>About Me</b></h1>
 
-📌 Hey Guys !! My name <b>Aashish</b> and i am <b>python Developer....</b>
+<ul>
 
-📌 I'm currently pursuing my master's | Master of Computer Application (MCA)
-
-📌 Here's is some the project that i bulid on python or other languages and share as a form of repositries
-
-📌 I worked mostly on python to bulid my almost projects and beside that i know c, c++ , java, javascript, PHP etc...
-<hr>
-
+  <li> 🙋 21 years old Python and Django Developer</li>
+  <li> 🎓 MCA Student</li>
+  
+</ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
