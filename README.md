@@ -31,21 +31,21 @@
     <td>Languages</td>
     <td><img src="skills/vscode-icons_file-type-python.png" width="30px;"></td>
     <td><img src="skills/logos_javascript.png" width="30px;"></td>
-    <td><img src="skills/logos_php.png" width="30px;"></td>
+    <td><img src="skills/logos_php.png" width="45px;"></td>
     <td><img src="skills/logos_java.png" width="30px;"></td>
     <td><img src="skills/logos_c.png" width="30px;"></td>
     <td><img src="skills/logos_c-plusplus.png" width="30px;"></td>
   </thead>
   <tr>
     <td>Database</td>
-    <td><img src="skills/vscode-icons_file-type-mongo.png" width="30px;"></td>
+    <td><img src="skills/vscode-icons_file-type-mongo.png" width="45px;"></td>
      <td><img src="skills/logos_postgresql.png" width="30px;"></td>
      <td><img src="skills/logos_mysql.png" width="30px;"></td>
      <td><img src="skills/logos_redis.png" width="30px;"></td>
   </tr>
    <tr>
     <td>DevOps</td>
-    <td><img src="skills/logos_github-octocat.png" width="30px;"></td>
+    <td><img src="skills/logos_github-octocat.png" width="45px;"></td>
      <td><img src="skills/logos_gitlab.png" width="30px;"></td>
      <td><img src="skills/logos_git-icon.png" width="30px;"></td>
      <td><img src="skills/logos_postman.png" width="30px;"></td>
