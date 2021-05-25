@@ -22,4 +22,3 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&layout=compact" alt="Aashish" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&theme=black-blue" alt="Aashish "/>
