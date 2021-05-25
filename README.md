@@ -11,13 +11,7 @@
 <img src="assets/Slide 16_9 - 1.jpg">
 <h3>About Me</h3>
 
-<style>
-.border{
-  
-  border:2px solid white;
-  
-  }
-</style>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashishkumar123&theme=tokyonight">
 
 <div class="border" style="border:2px solid white;">
 
@@ -33,7 +27,23 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&layout=compact" alt="Aashish" />
+  <table>
+    
+    <thead>
+      <td>jadkfd</td>
+      <td>jadkfd</td>
+      <td>jadkfd</td>
+    </thead>
+<!--   
+    <tr>
+      <td> <img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></td>
+      
+      <td> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&layout=compact" alt="Aashish" /> </td>
+    
+    </tr> -->
+  </table>
+
+</div>
 
