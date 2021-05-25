@@ -9,7 +9,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Aashishkumar123" alt="Aashish" /> </p>
 
 <img src="assets/Slide 16_9 - 1.jpg">
-<h1><b>About Me</b></h1>
+<h3>About Me</h3>
 
 <ul>
 
