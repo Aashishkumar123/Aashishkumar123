@@ -1,9 +1,9 @@
 <h1><b>My Social Media Handlers</b></h1>
 
 <a href="https://www.instagram.com/aashishkumar12376/"><img src="assets/6097906e06490 4.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100016942057363"> <img src="assets/6097906e06490 5.png" width="50px;"></a>
-<a href="https://www.youtube.com/channel/UC2nbUg6pG7RgDRnAmw7NzCQ"> <img src="assets/6097906e06490 3.png" width="50px;"></a>
+<a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img src="assets/Group 1.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100016942057363"> <img src="assets/6097906e06490 5.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC2nbUg6pG7RgDRnAmw7NzCQ"> <img src="assets/6097906e06490 3.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
