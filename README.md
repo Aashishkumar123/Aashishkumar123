@@ -27,23 +27,10 @@
 
 
 
-<div>
-
-  <table>
-    
-    <thead>
-      <td>jadkfd</td>
-      <td>jadkfd</td>
-      <td>jadkfd</td>
-    </thead>
 <!--   
-    <tr>
+
       <td> <img src="https://github-readme-stats.vercel.app/api?username=Aashishkumar123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></td>
       
       <td> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishkumar123&layout=compact" alt="Aashish" /> </td>
     
     </tr> -->
-  </table>
-
-</div>
-
