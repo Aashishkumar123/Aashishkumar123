@@ -1,4 +1,4 @@
-<h1>Hey 👋 /h1>
+<h1>Hey 👋 </h1>
 
 <a href="https://www.instagram.com/aashishkumar12376/"><img src="assets/6097906e06490 4.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img src="assets/Group 1.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
