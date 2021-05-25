@@ -6,8 +6,6 @@
 <a href="https://www.youtube.com/channel/UC2nbUg6pG7RgDRnAmw7NzCQ"> <img src="assets/6097906e06490 3.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-
-<hr>
 <p> <img src="https://komarev.com/ghpvc/?username=Aashishkumar123" alt="Aashish" /> </p>
 
 <img src="assets/Slide 16_9 - 1.jpg">
