@@ -6,7 +6,7 @@
 
 <hr>
 
-<img src="assets/Slide 16_9 - 1.jpg" style="border-radius:50%;">
+<img src="assets/Slide 16_9 - 1.jpg">
 <h1><b>About Me</b></h1>
 
 📌 Hey Guys !! My name <b>Aashish</b> and i am <b>python Developer....</b>
