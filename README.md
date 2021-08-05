@@ -21,7 +21,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=Aashishkumar123" alt="Aashish" /> </p>
 
-<img src="assets/Slide 16_9 - 1.jpg">
+<!-- <img src="assets/Slide 16_9 - 1.jpg"> -->
 
 
 
