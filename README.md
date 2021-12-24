@@ -17,12 +17,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aashishkumar123" alt="Aashish" /> </p> <br />
 <h3 align="center">Connect with me  </h3>
-<p align="center">
-<a href="https://www.instagram.com/aashishkumar12376/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-C841AC?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+<a href="https://www.instagram.com/aashishkumar12376/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-C841AC?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp; <br /> <br />
 <a href="https://www.linkedin.com/in/aashish-kumar-30698b145/"><img align="center" src="https://img.shields.io/badge/LINKEDIN-1666C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100016942057363"> <img align="center" src="https://img.shields.io/badge/FACEBOOK-1666C2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100016942057363"> <img align="center" src="https://img.shields.io/badge/FACEBOOK-1666C2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;<br /> <br />
 <a href="https://www.youtube.com/channel/UC2nbUg6pG7RgDRnAmw7NzCQ"> <img align="center" src="https://img.shields.io/badge/YOUTUBE-ed3833?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-</p>
+</div>
 <br>
 
 
