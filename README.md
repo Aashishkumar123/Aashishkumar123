@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 2 years of Experience<br>📚 I'm currently learning System Design<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ 2 years of Experience. <br>📚 I'm currently learning System Design.</p>
 
 ###
 
@@ -47,3 +47,6 @@
 </div>
 
 ###
+
+
+
